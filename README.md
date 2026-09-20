@@ -1,4 +1,4 @@
-# To-do List App — Full-Stack (React + Node.js + PostgreSQL)
+# Task-Management-App — Full-Stack (React + Node.js + PostgreSQL)
 
 A full-stack task management application built as part of an **AI vs Manual Development Comparison** experiment.
 
@@ -126,7 +126,3 @@ CREATE TABLE todos (
 > "AI is a powerful assistant, not a replacement for critical thinking." — Core lesson from this project.
 
 ---
-
-## 👤 Author
-
-**Benhur Rezene Habte**
